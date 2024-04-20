@@ -28,7 +28,7 @@ function Counter() {
     </div>
   );
 }
-// Ashna 
+ 
 export default Counter;
 
 
